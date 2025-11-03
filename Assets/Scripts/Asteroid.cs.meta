@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f8fdc8ea91088f4394c893b995d87b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magentaAsteroid: {fileID: -2139076001951119895, guid: ec3fa72f53d595348b2e249af7dbb783, type: 3}
+  - greenAsteroid: {fileID: -2442596370873217549, guid: 0d0241248d1105e4bb3569dfe2178458, type: 3}
+  - whiteAsteroid: {fileID: 1936580243855528780, guid: 3689aece6d79a87429b2e1c8d27f6f63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
